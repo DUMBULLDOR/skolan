@@ -33,7 +33,7 @@ js.onload = function () {
             
         });
         
-        $("#butt").on("click",function(){window.open("try1.html","_blank","toolbar=yes,scrollbars=yes,resizable=yes,titlebar=no,top=50%,left=0%,width=100vw,height=60vh");});
+        $("#butt").on("click",function(){window.open("try1.html","_blank","toolbar=yes,scrollbars=yes,resizable=yes,titlebar=no,top=50%,left=0%,width=900,height=600");});
         $("#butt2").on("click",function(){window.location="#s";
         $("#butt2").preventdefault;
         
@@ -41,58 +41,6 @@ js.onload = function () {
         
     });
 
-    
-
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 };
 
 js.src = "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js";
